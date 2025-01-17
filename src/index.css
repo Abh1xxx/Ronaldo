@@ -1,0 +1,27 @@
+.home{
+  height: calc(100vh - 56px);
+  background-image: url('https://wallpapersok.com/images/hd/red-poster-cristiano-ronaldo-hd-4k-qung8px34lq7o2f8.jpg');  
+  background-size: cover;
+  
+  
+}
+.aboutimg{
+  height: 500px;
+}
+.icons{
+font-size: 60px;
+
+}
+.gallery-image{
+  height: 600px;
+  object-fit: cover;
+  width: 100%;
+}
+
+.formbg{
+  background-color: #333333;
+}
+
+.border{
+  border: none !important;
+}
